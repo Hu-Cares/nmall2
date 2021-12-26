@@ -201,6 +201,23 @@
     -webkit-transition: all .4s;
     transition: all .4s;
 }
+.btn1 {
+    display: inline-block;
+    *zoom: 1;
+    *display: inline;
+    width: 158px;
+    height: 38px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #1baeae;
+    font-size: 14px;
+    line-height: 38px;
+    text-align: center;
+    color: #1baeae;
+    cursor: pointer;
+    -webkit-transition: all .4s;
+    transition: all .4s;
+}
 
 .btn-primary {
     background: #1baeae;
